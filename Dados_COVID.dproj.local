@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/02/05 20:56:11.000.440,=H:\Projetos\Unit1.pas</Transaction>
+    <Transaction>2025/02/05 20:57:20.000.081,H:\Projetos\Unit1.pas=C:\Users\carol\Desktop\Edata_Consumo-API\frmPrincipal.pas</Transaction>
+    <Transaction>2025/02/05 20:57:20.000.081,H:\Projetos\Unit1.dfm=C:\Users\carol\Desktop\Edata_Consumo-API\frmPrincipal.dfm</Transaction>
+    <Transaction>2025/02/05 20:57:43.000.284,H:\Projetos\Project1.dproj=C:\Users\carol\Desktop\Edata_Consumo-API\ConsumoAPI.dproj</Transaction>
+    <Transaction>2025/02/05 21:08:40.000.946,C:\Users\carol\Desktop\Edata_Consumo-API\ConsumoAPI.dproj=C:\Users\carol\Desktop\Edata_Consumo-API\ConsumoAPI_COVID.dproj</Transaction>
+    <Transaction>2025/02/05 21:09:00.000.238,C:\Users\carol\Desktop\Edata_Consumo-API\ConsumoAPI_COVID.dproj=C:\Users\carol\Desktop\Edata_Consumo-API\Dados_COVID.dproj</Transaction>
+    <Transaction>2025/02/05 21:10:33.000.775,C:\Users\carol\Desktop\Edata_Consumo-API\frmPrincipal.pas=</Transaction>
+    <Transaction>2025/02/05 21:15:39.000.024,=C:\Users\carol\Desktop\Edata_Consumo-API\src\Views\frmPrincipal.pas</Transaction>
+    <Transaction>2025/02/05 21:19:12.000.120,=C:\Users\carol\Desktop\Edata_Consumo-API\Unit1.pas</Transaction>
+    <Transaction>2025/02/05 21:19:32.000.465,C:\Users\carol\Desktop\Edata_Consumo-API\Unit1.pas=C:\Users\carol\Desktop\Edata_Consumo-API\src\Models\uDadosCOVID.pas</Transaction>
+    <Transaction>2025/02/05 21:24:43.000.963,=C:\Users\carol\Desktop\Edata_Consumo-API\Unit1.pas</Transaction>
+    <Transaction>2025/02/05 21:25:23.000.714,C:\Users\carol\Desktop\Edata_Consumo-API\Unit1.pas=C:\Users\carol\Desktop\Edata_Consumo-API\src\Interfaces\iDadosCOVID.pas</Transaction>
+    <Transaction>2025/02/05 21:26:26.000.771,C:\Users\carol\Desktop\Edata_Consumo-API\src\Interfaces\iDadosCOVID.pas=C:\Users\carol\Desktop\Edata_Consumo-API\src\Interfaces\intDadosCOVID.pas</Transaction>
+    <Transaction>2025/02/05 21:26:44.000.766,C:\Users\carol\Desktop\Edata_Consumo-API\src\Interfaces\intDadosCOVID.pas=C:\Users\carol\Desktop\Edata_Consumo-API\src\Interfaces\DadosCOVIDInterface.pas</Transaction>
+    <Transaction>2025/02/05 21:27:05.000.788,C:\Users\carol\Desktop\Edata_Consumo-API\src\Interfaces\DadosCOVIDInterface.pas=C:\Users\carol\Desktop\Edata_Consumo-API\src\Interfaces\uDadosCOVIDInterface.pas</Transaction>
+    <Transaction>2025/02/05 21:27:20.000.578,C:\Users\carol\Desktop\Edata_Consumo-API\src\Interfaces\uDadosCOVIDInterface.pas=C:\Users\carol\Desktop\Edata_Consumo-API\src\Interfaces\uIDadosCOVID.pas</Transaction>
+    <Transaction>2025/02/05 21:28:03.000.954,=C:\Users\carol\Desktop\Edata_Consumo-API\Unit1.pas</Transaction>
+    <Transaction>2025/02/05 21:28:30.000.333,C:\Users\carol\Desktop\Edata_Consumo-API\Unit1.pas=C:\Users\carol\Desktop\Edata_Consumo-API\uIDadosCOVIDController.pas</Transaction>
+    <Transaction>2025/02/05 21:28:37.000.337,C:\Users\carol\Desktop\Edata_Consumo-API\uIDadosCOVIDController.pas=</Transaction>
+    <Transaction>2025/02/05 21:28:55.000.475,=C:\Users\carol\Desktop\Edata_Consumo-API\src\Interfaces\uIDadosCOVIDController.pas</Transaction>
+    <Transaction>2025/02/05 21:30:14.000.491,=C:\Users\carol\Desktop\Edata_Consumo-API\Unit1.pas</Transaction>
+    <Transaction>2025/02/05 21:30:53.000.690,C:\Users\carol\Desktop\Edata_Consumo-API\Unit1.pas=C:\Users\carol\Desktop\Edata_Consumo-API\src\Controllers\uDadosCOVIDController.pas</Transaction>
+    <Transaction>2025/02/05 21:33:09.000.646,=C:\Users\carol\Desktop\Edata_Consumo-API\Unit1.pas</Transaction>
+    <Transaction>2025/02/05 21:33:34.000.706,C:\Users\carol\Desktop\Edata_Consumo-API\Unit1.pas=C:\Users\carol\Desktop\Edata_Consumo-API\src\Interfaces\uIDadosCOVIDService.pas</Transaction>
+    <Transaction>2025/02/05 22:06:02.000.779,=C:\Users\carol\Desktop\Edata_Consumo-API\Unit1.pas</Transaction>
+    <Transaction>2025/02/05 22:06:16.000.927,C:\Users\carol\Desktop\Edata_Consumo-API\Unit1.pas=C:\Users\carol\Desktop\Edata_Consumo-API\src\Services\uDadosCOVIDService.pas</Transaction>
+    <Transaction>2025/02/06 11:29:23.000.938,C:\Users\carol\Desktop\Edata_Consumo-API\src\Interfaces\uIDadosCOVID.pas=</Transaction>
+    <Transaction>2025/02/06 11:29:24.000.280,C:\Users\carol\Desktop\Edata_Consumo-API\src\Interfaces\uIDadosCOVIDController.pas=</Transaction>
+    <Transaction>2025/02/06 11:29:24.000.300,C:\Users\carol\Desktop\Edata_Consumo-API\src\Interfaces\uIDadosCOVIDService.pas=</Transaction>
+    <Transaction>2025/02/06 11:30:01.000.927,=C:\Users\carol\Desktop\Edata_Consumo-API\src\Controllers\uIDadosCOVIDController.pas</Transaction>
+    <Transaction>2025/02/06 11:30:11.000.132,=C:\Users\carol\Desktop\Edata_Consumo-API\src\Models\uIDadosCOVID.pas</Transaction>
+    <Transaction>2025/02/06 11:30:19.000.480,=C:\Users\carol\Desktop\Edata_Consumo-API\src\Services\uIDadosCOVIDService.pas</Transaction>
+    <Transaction>2025/02/06 11:32:19.000.400,=C:\Users\carol\Desktop\Edata_Consumo-API\Unit1.pas</Transaction>
+    <Transaction>2025/02/06 11:32:29.000.717,C:\Users\carol\Desktop\Edata_Consumo-API\src\ViewModels\uIDadosCOVIDViewModel.pas=C:\Users\carol\Desktop\Edata_Consumo-API\Unit1.pas</Transaction>
+    <Transaction>2025/02/06 11:32:56.000.704,=C:\Users\carol\Desktop\Edata_Consumo-API\Unit1.pas</Transaction>
+    <Transaction>2025/02/06 11:33:04.000.327,C:\Users\carol\Desktop\Edata_Consumo-API\src\ViewModels\uDadosCOVIDViewModel.pas=C:\Users\carol\Desktop\Edata_Consumo-API\Unit1.pas</Transaction>
+    <Transaction>2025/02/06 11:34:37.000.863,=C:\Users\carol\Desktop\Edata_Consumo-API\Unit1.pas</Transaction>
+    <Transaction>2025/02/06 11:34:48.000.773,C:\Users\carol\Desktop\Edata_Consumo-API\src\Factories\uDadosCOVIDFactory.pas=C:\Users\carol\Desktop\Edata_Consumo-API\Unit1.pas</Transaction>
+    <Transaction>2025/02/06 12:47:17.000.727,C:\Users\carol\Desktop\Edata_Consumo-API\src\Controllers\uIDadosCOVIDController.pas=</Transaction>
+    <Transaction>2025/02/06 12:47:17.000.671,C:\Users\carol\Desktop\Edata_Consumo-API\src\Controllers\uDadosCOVIDController.pas=</Transaction>
+    <Transaction>2025/02/06 13:42:29.000.926,=C:\Users\carol\Desktop\Edata_Consumo-API\Unit1.pas</Transaction>
+    <Transaction>2025/02/06 13:43:17.000.959,C:\Users\carol\Desktop\Edata_Consumo-API\Unit1.pas=C:\Users\carol\Desktop\Edata_Consumo-API\src\Common\uConstantes.pas</Transaction>
+    <Transaction>2025/02/06 15:30:03.000.236,C:\Users\carol\Desktop\Edata_Consumo-API\src\Common\uConstantes.pas=</Transaction>
+    <Transaction>2025/02/06 18:09:23.000.233,=C:\Users\carol\Desktop\Edata_Consumo-API\src\Common\uConstantes.pas</Transaction>
+  </Transactions>
+</BorlandProject>
